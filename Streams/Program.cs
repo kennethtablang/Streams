@@ -11,6 +11,12 @@
             using (StreamWriter writer = new StreamWriter(filePath))
             {
                 writer.WriteLine("Hello, this is my first line!");
+                writer.WriteLine("Hello, this is my first line!");
+                writer.WriteLine("Hello, this is my first line!");
+                writer.WriteLine("Hello, this is my first line!");
+                writer.WriteLine("Hello, this is my first line!");
+                writer.WriteLine("Hello, this is my first line!");
+                writer.WriteLine("Hello, this is my first line!");
                 writer.WriteLine("And here’s another line.");
             }
 
